@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Table</string>
+    <string name="SearchSchedule">OK</string>
+    <string name="GroupNumber">Введите номер группы</string>
+    <string name="QuickEntry">Быстрая заметка</string>
+    <string name="title_activity_quick_note">QuickNote</string>
+</resources>
